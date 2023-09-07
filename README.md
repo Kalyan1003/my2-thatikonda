@@ -17,3 +17,16 @@ Goa situated within the **Greenstone** Belt in the **Western Ghats** an area com
 * Sorak
 
 [link of Mystats](Mystats.md)
+
+---
+## TABLE
+Here is th etable showing sports I will recommend to anyone.This sports contains Sports name,reasons for recommendation and average time for week.
+
+|Sports Name|Reason for Recommendation|Average time for week|
+|:---:|:---:|:---:|
+|Cricket|Physical fitness and Stamina|4-5 hours|
+|Volleyball|Circulate more blood|2-3 hours|
+|Badminton|Strengthness muscles|3-4 hours|
+
+
+
