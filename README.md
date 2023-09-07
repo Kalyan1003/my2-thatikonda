@@ -15,3 +15,5 @@ Goa situated within the **Greenstone** Belt in the **Western Ghats** an area com
 * Shark Ambot Tik
 * Sorpotel
 * Sorak
+
+[link of Mystats](Mystats.md)
