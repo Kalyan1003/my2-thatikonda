@@ -30,7 +30,7 @@ Here is th etable showing sports I will recommend to anyone.This sports contains
 
 ---
 ## Pithy Quotes
->What goes up must come down -*Newton*
+>What goes up must come down -*Newton*<br>
 >A man who dares to waste one hourof time has not discovered the value of life-*Charles Darwin*
 
 
