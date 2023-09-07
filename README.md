@@ -28,5 +28,10 @@ Here is th etable showing sports I will recommend to anyone.This sports contains
 |Volleyball|Circulate more blood|2-3 hours|
 |Badminton|Strengthness muscles|3-4 hours|
 
+---
+## Pithy Quotes
+>What goes up must come down -*Newton*
+>A man who dares to waste one hourof time has not discovered the value of life-*Charles Darwin*
+
 
 
